@@ -8,7 +8,7 @@ import usersExceptions.*;
 import java.util.Comparator;
 
 public class Main {
-    private static String WELCOME_MSG = "Hello!. Part2. Task #1.6 stones\n";
+    private static String WELCOME_MSG = "Hello!. Part3. Task #1.Stones with users exceptions\n";
     private static String COST_OF_JEWELRY = "Cost of %s is %.2f%s";
     private static String WEIGHT_OF_JEWELRY = "Weight of %s is %.0f carats";
     private static final String DEFAULT_NAME = "Necklace";
